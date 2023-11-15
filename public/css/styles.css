@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #EAC926;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav ul{
+    text-decoration: none;
+}
+
+.centrar {
+    text-align: center;
+}
+
+main h3 {
+    font-size: 24px;
+}
+
+main h4{
+    font-size: 16px;
+}
+
+.tamano-precio {
+    font-size: 18px;
+}
+
+.tamano-descuento {
+    font-size: 16px;
+}
+
+.burger-menu{
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    color: white;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+footer i{
+    font-size: 40px;
+    color: blue;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
